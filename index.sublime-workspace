@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"s",
+				"strong"
+			],
+			[
+				"at",
+				"article"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"f",
+				"fieldset"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"flex",
+				"flex-shrink"
+			],
+			[
+				"ord",
+				"ordem2"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"aut",
+				"autofocus"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"L",
+				"li"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"an",
+				"animation-duration"
+			],
+			[
+				"ani",
+				"animation-name"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"area-",
+				"area-lateral"
+			],
+			[
+				"ho",
+				"houver"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"are",
+				"area-menu"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"n",
+				"underline"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"cla",
+				"clear"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bak",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"conte",
+				"conteiner"
+			],
+			[
+				"l",
+				"legend"
+			],
+			[
+				"border-cl",
+				"border-collapse"
+			],
+			[
+				"cote",
+				"conteudo-secundario"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"pag",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"st",
+				"strong"
+			],
+			[
+				"cant",
+				"contato"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"backgro",
+				"background-attachment"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ima",
+				"imagens"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"em",
+				"em"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"sec",
+				"select"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"h",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Chalé Hotel (COMPLETO!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Chalé Hotel (COMPLETO!)/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Programador br/Front/Html/overflow.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Programador br/Front/Html/idenx.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Programador br/Front/Css/estio.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Programador br/Front/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Programador br/Front/indeix.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/apoio-breakpoints.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/mida queries/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/mida queries/estilo-impressao.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/mida queries/estilo.css",
+		"/C/Users/joaov/AppData/Local/Temp/Rar$DRa6620.49129/bootstrap4/apoio-tamanhos-bordas.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/apoio-margin-padding.html",
+		"/C/Users/joaov/AppData/Local/Temp/Rar$DRa12636.28209/bootstrap4/alinhamento-textos.html",
+		"/C/Users/joaov/Downloads/3-arquivos-aula-alinhamento-textos.zip",
+		"/C/Users/joaov/AppData/Local/Temp/Rar$DRa5956.5262/apoio-alinhamento-textos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/bootstrap4/alinhamento-textos-html.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (COMPLETO!)/css/normalize.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (COMPLETO!)/css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (COMPLETO!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (A FAZER!)/css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (A FAZER!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Museu Nacional (A FAZER!)/css/normalize.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/Flexbox/flexbox.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/Flexbox/Flexbox-container.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/HTML/css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/HTML/novas-tags-input.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/HTML/novas-tag.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/transicoes.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/animaçoes.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/sombras.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/degrades.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/border-radius-box-sizing.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css3 recursos/border-radius-box-sizing.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css3 recursos/css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css3 recursos/normalize.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css3 recursos/css/normalize.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML5 e CSS3 Recusos especiais/css3 recursos/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Usando fontes customizadas/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Parallax/indexUsandoParallax.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Parallax/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Chalé Hotel (A FAZER!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Chalé Hotel (A FAZER!)/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (COMPLETO!)/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (COMPLETO!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (COMPLETO!)/fotos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (A FAZER!)/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (A FAZER!)/fotos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Site Notícia Cidade (A FAZER!)/brasil.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Arredondamento com imagens/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Arredondamento com imagens/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar formulários part2/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar formulários part2/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar Formulários/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar Formulários/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar tabelas/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Estilizar tabelas/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Layout de largura fixa/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Layout de largura fixa/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Navegação com abas/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Navegação com abas/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/criando barra de navegação horizontal/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/criando barra de navegação horizontal/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Criando barra de navegação vertical/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Criando barra de navegação vertical/sobre.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Criando barra de navegação vertical/navegacao-vertical.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Seletores/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Seletores/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/herança e especificidade/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/herança e especificidade/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/heranca.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Css/heranca.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/herança.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/Css/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario e avançado/seletores.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto TecBlog (A FAZER!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto TecBlog (A FAZER!)/CSS/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/formatalinks.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/sobreponde-elementos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/Posicionamento-estático-e-relativo.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/elementos-flutuantes.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3 intermediario/modelo-caixa.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Anna Bella (COMPLETO!)/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/a/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/a/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Anna Bella (A FAZER!)/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Anna Bella (A FAZER!)/contato.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Anna Bella (A FAZER!)/campanhas-publicitarias.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/cores-imagemDefundo.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/estilo.css",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/pagina2.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/pagina1.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/estilo-textos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/tamanho-texto.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/fontes-cores.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/bordas.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/div-span.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/Classes_Ids.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/Seletores_css.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Unes (COMPLETO!)/Index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Css3/inline_style.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/teste/Index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Unes/Contato.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Unes/Quem-somos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Projeto Unes/Index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/tabelas.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Projetos/Index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/Caracteres especiais.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/Formularios.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/Links.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/imagens.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/front-end/HTML/Desafio1.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/web/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto unes/Quem-somos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto unes/index.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto unes/contatos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto css3/bordas.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto css3/div-spam.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto css3/classes_ids.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/Projeto css3/inline_style.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/projeto do 0/Quem-somos.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/projeto do 0/contato.html",
+		"/C/Users/joaov/OneDrive/Área de Trabalho/projeto do 0/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
